@@ -353,7 +353,7 @@ font-size: 14px;
     }
   
     /* Mobile Devices */
-    @media (max-width: 600px) {
+    @media (max-width: 767px) {
       #navbar {
         flex-direction: column;
       }
